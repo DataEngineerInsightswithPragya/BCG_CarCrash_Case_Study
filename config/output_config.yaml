@@ -1,0 +1,12 @@
+output_paths:
+  analysis1: "output/analysis1_results.csv"
+  analysis2: "output/analysis2_results.csv"
+  analysis3: "output/analysis3_results.csv"
+  analysis4: "output/analysis4_results.csv"
+  analysis5: "output/analysis5_results.csv"
+  analysis6: "output/analysis6_results.csv"
+  analysis7: "output/analysis7_results.csv"
+  analysis8: "output/analysis8_results.csv"
+  analysis9: "output/analysis9_results.csv"
+  analysis10: "output/analysis10_results.csv"
+

@@ -1,0 +1,7 @@
+data_sources:
+  charges: "crash_analysis_project/data/Charges_use.csv"
+  endorsements: "crash_analysis_project/data/Endorse_use.csv"
+  restrict: "crash_analysis_project/data/Restrict_use.csv"
+  damages: "crash_analysis_project/data/Damages_use.csv"
+  primary_person: "crash_analysis_project/data/Primary_Person_use.csv"
+  unit: "crash_analysis_project/data/Units_use.csv"
